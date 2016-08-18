@@ -1,4 +1,3 @@
-layout_spectrum: 0.07121131918393075
 typography_spectrum: 0.9376465242821723
 color:
   brandStrength: 0.6206298465840518
@@ -11,4 +10,6 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.07121131918393075
 name: World Hip Hop
+title: World Hip-Hop News
